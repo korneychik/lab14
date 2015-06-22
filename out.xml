@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<data>
+	<site url="http://fakty.ua/rss_feed/ukraina"/>
+	<site url="http://www.pravda.com.ua/rus/rss/"/>
+	<site url="http://fakty.ua/rss_feed/ukraina"/>
+	<site url="http://www.pravda.com.ua/rus/rss/"/>
+	<site url="http://rian.com.ua/export/rss2/index.xml">
+		<name freq="2" id="kyev">&amp;#1050;&amp;#1080;&amp;#1077;&amp;#1074;</name>
+		<name freq="1" id="dnepropetrovsk">&amp;#1044;&amp;#1085;&amp;#1077;&amp;#1087;&amp;#1088;&amp;#1086;&amp;#1087;&amp;#1077;&amp;#1090;&amp;#1088;&amp;#1086;&amp;#1074;&amp;#1089;&amp;#1082;</name>
+	</site>
+	<site url="http://rian.com.ua/export/rss2/index.xml">
+		<name freq="2" id="kyev">&amp;#1050;&amp;#1080;&amp;#1077;&amp;#1074;</name>
+		<name freq="1" id="dnepropetrovsk">&amp;#1044;&amp;#1085;&amp;#1077;&amp;#1087;&amp;#1088;&amp;#1086;&amp;#1087;&amp;#1077;&amp;#1090;&amp;#1088;&amp;#1086;&amp;#1074;&amp;#1089;&amp;#1082;</name>
+	</site>
+	<site url="http://news.liga.net/all/rss.xml">
+		<name freq="5" id="kyev">&amp;#1050;&amp;#1080;&amp;#1077;&amp;#1074;</name>
+		<name freq="1" id="kharkov">&amp;#1061;&amp;#1072;&amp;#1088;&amp;#1100;&amp;#1082;&amp;#1086;&amp;#1074;</name>
+		<name freq="4" id="donetsk">&amp;#1044;&amp;#1086;&amp;#1085;&amp;#1077;&amp;#1094;&amp;#1082;</name>
+		<name freq="2" id="luhansk">&amp;#1051;&amp;#1091;&amp;#1075;&amp;#1072;&amp;#1085;&amp;#1089;&amp;#1082;</name>
+		<name freq="1" id="lutsk">&amp;#1051;&amp;#1091;&amp;#1094;&amp;#1082;</name>
+	</site>
+	<site url="http://news.liga.net/all/rss.xml">
+		<name freq="5" id="kyev">&amp;#1050;&amp;#1080;&amp;#1077;&amp;#1074;</name>
+		<name freq="1" id="kharkov">&amp;#1061;&amp;#1072;&amp;#1088;&amp;#1100;&amp;#1082;&amp;#1086;&amp;#1074;</name>
+		<name freq="4" id="donetsk">&amp;#1044;&amp;#1086;&amp;#1085;&amp;#1077;&amp;#1094;&amp;#1082;</name>
+		<name freq="2" id="luhansk">&amp;#1051;&amp;#1091;&amp;#1075;&amp;#1072;&amp;#1085;&amp;#1089;&amp;#1082;</name>
+		<name freq="1" id="lutsk">&amp;#1051;&amp;#1091;&amp;#1094;&amp;#1082;</name>
+	</site>
+	<site url="http://k.img.com.ua/rss/ru/all_news2.0.xml">
+		<name freq="12" id="kyev">&amp;#1050;&amp;#1080;&amp;#1077;&amp;#1074;</name>
+		<name freq="13" id="donetsk">&amp;#1044;&amp;#1086;&amp;#1085;&amp;#1077;&amp;#1094;&amp;#1082;</name>
+		<name freq="1" id="lvov">&amp;#1051;&amp;#1100;&amp;#1074;&amp;#1086;&amp;#1074;</name>
+		<name freq="1" id="maryupol">&amp;#1052;&amp;#1072;&amp;#1088;&amp;#1080;&amp;#1091;&amp;#1087;&amp;#1086;&amp;#1083;&amp;#1100;</name>
+		<name freq="5" id="luhansk">&amp;#1051;&amp;#1091;&amp;#1075;&amp;#1072;&amp;#1085;&amp;#1089;&amp;#1082;</name>
+		<name freq="1" id="alchevsk">&amp;#1040;&amp;#1083;&amp;#1095;&amp;#1077;&amp;#1074;&amp;#1089;&amp;#1082;</name>
+	</site>
+	<site url="http://k.img.com.ua/rss/ru/all_news2.0.xml">
+		<name freq="12" id="kyev">&amp;#1050;&amp;#1080;&amp;#1077;&amp;#1074;</name>
+		<name freq="13" id="donetsk">&amp;#1044;&amp;#1086;&amp;#1085;&amp;#1077;&amp;#1094;&amp;#1082;</name>
+		<name freq="1" id="lvov">&amp;#1051;&amp;#1100;&amp;#1074;&amp;#1086;&amp;#1074;</name>
+		<name freq="1" id="maryupol">&amp;#1052;&amp;#1072;&amp;#1088;&amp;#1080;&amp;#1091;&amp;#1087;&amp;#1086;&amp;#1083;&amp;#1100;</name>
+		<name freq="5" id="luhansk">&amp;#1051;&amp;#1091;&amp;#1075;&amp;#1072;&amp;#1085;&amp;#1089;&amp;#1082;</name>
+		<name freq="1" id="alchevsk">&amp;#1040;&amp;#1083;&amp;#1095;&amp;#1077;&amp;#1074;&amp;#1089;&amp;#1082;</name>
+	</site>
+</data>
